@@ -6,6 +6,7 @@ metadata:
     A minimalistic photo gallery with images stored on Amazon S3 and just the features you want.
   annotations:
     github.com/project-slug: skquievreux/noobgallery
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
